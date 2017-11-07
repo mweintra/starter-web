@@ -18,3 +18,6 @@ This is a simple demo for Git
 
 ## How To Commit
 
+## Copyright Notice
+
+
