@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Star -- Palidin -- at@twit
 
 # THANKS
 
