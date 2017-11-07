@@ -18,6 +18,10 @@ This is a simple demo for Git
 
 ## How To Commit
 
+## How To Contribute
+
+Please fork and add to this file or something
+
 ## Copyright Notice
 
 
