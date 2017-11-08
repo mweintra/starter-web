@@ -24,4 +24,5 @@ Please fork and add to this file or something
 
 ## Copyright Notice
 
+All rights reserved.
 
